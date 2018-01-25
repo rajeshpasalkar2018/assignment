@@ -6,6 +6,7 @@ import cucumber.junit.Cucumber;
 
 @RunWith(Cucumber.class) 
 @Cucumber.Options(format = {"pretty", "html:target/cucumber"},
+glue = {"stepDef"},
 tags = {"@Sanity"}
 ) 
 

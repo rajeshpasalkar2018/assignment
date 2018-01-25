@@ -1,4 +1,4 @@
-package firstProject.Cucumber;
+package common;
 
 public class Constant {
 	public static final String W3SCHOOL_URL = "https://www.w3schools.com/html/html_forms.asp";

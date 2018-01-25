@@ -1,10 +1,11 @@
-package firstProject.Cucumber;
+package stepDef;
 
 
 import java.util.List;
 
 import org.openqa.selenium.WebDriver;
 
+import common.Driver;
 
 import cucumber.annotation.en.Given;
 import cucumber.annotation.en.Then;
