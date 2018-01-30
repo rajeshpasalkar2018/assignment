@@ -1,0 +1,22 @@
+Feature: CucumberJava
+
+  @Sanity
+  Scenario Outline: To check scenario_outline feature [90m# firstProject\Cucumber\cucumber.feature:22[0m
+    [90mGiven [0m[90mOpen the browser[0m                            [90m# StepDefinition.openBrowser()[0m
+[1A    [32mGiven [0m[32mOpen the browser[0m                            [90m# StepDefinition.openBrowser()[0m
+    [90mWhen [0m[90mI am testing "[0m[90m[1mhttps://www.cricbuzz.com[0m[90m"[0m      [90m# StepDefinition.I_am_testing_pages(String)[0m
+[1A    [32mWhen [0m[32mI am testing "[0m[32m[1mhttps://www.cricbuzz.com[0m[32m"[0m      [90m# StepDefinition.I_am_testing_pages(String)[0m
+
+  @Sanity
+  Scenario Outline: To check scenario_outline feature [90m# firstProject\Cucumber\cucumber.feature:23[0m
+    [90mGiven [0m[90mOpen the browser[0m                            [90m# StepDefinition.openBrowser()[0m
+[1A    [32mGiven [0m[32mOpen the browser[0m                            [90m# StepDefinition.openBrowser()[0m
+    [90mWhen [0m[90mI am testing "[0m[90m[1mhttps://www.soccer24.com[0m[90m"[0m      [90m# StepDefinition.I_am_testing_pages(String)[0m
+[1A    [32mWhen [0m[32mI am testing "[0m[32m[1mhttps://www.soccer24.com[0m[32m"[0m      [90m# StepDefinition.I_am_testing_pages(String)[0m
+
+  @Sanity
+  Scenario Outline: To check scenario_outline feature [90m# firstProject\Cucumber\cucumber.feature:24[0m
+    [90mGiven [0m[90mOpen the browser[0m                            [90m# StepDefinition.openBrowser()[0m
+[1A    [32mGiven [0m[32mOpen the browser[0m                            [90m# StepDefinition.openBrowser()[0m
+    [90mWhen [0m[90mI am testing "[0m[90m[1mhttp://www.tennis.com[0m[90m"[0m         [90m# StepDefinition.I_am_testing_pages(String)[0m
+[1A    [32mWhen [0m[32mI am testing "[0m[32m[1mhttp://www.tennis.com[0m[32m"[0m         [90m# StepDefinition.I_am_testing_pages(String)[0m

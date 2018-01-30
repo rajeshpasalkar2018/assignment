@@ -1,4 +1,4 @@
-package stepDef;
+package stepDef.test.example;
 
 
 import java.util.List;

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failed="0" tests="3">
+<testcase classname="CucumberJava" name="To check scenario_outline feature" time="5684">
+<system-out><![CDATA[Given Open the browser...........................................................passed
+When I am testing "https://www.cricbuzz.com"................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="CucumberJava" name="To check scenario_outline feature" time="3531">
+<system-out><![CDATA[Given Open the browser...........................................................passed
+When I am testing "https://www.soccer24.com"................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="CucumberJava" name="To check scenario_outline feature" time="8243">
+<system-out><![CDATA[Given Open the browser...........................................................passed
+When I am testing "http://www.tennis.com"..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
